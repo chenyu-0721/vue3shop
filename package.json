@@ -9,7 +9,7 @@
     "preview": "vite preview",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://github.com/chenyu-0721/vuehomework2-",
+  "homepage": "https://github.com/chenyu-0721/vue3shop",
   "dependencies": {
     "axios": "^1.7.3",
     "bootstrap": "^5.3.3",
